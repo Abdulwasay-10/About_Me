@@ -49,8 +49,8 @@ Building things with Flutter, C++, and C#/Unity.
 
 ### 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Abdulwasay-10&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Abdulwasay-10&layout=compact&hide_border=true&theme=radical" />
+<img height="180" src="https://github-readme-stats-ten-theta-84.vercel.app/api?username=Abdulwasay-10&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats-ten-theta-84.vercel.app/api/top-langs/?username=Abdulwasay-10&layout=compact&hide_border=true&theme=radical" />
 
 <img height="180" src="https://streak-stats.demolab.com/?user=Abdulwasay-10&theme=radical&hide_border=true" />
 
