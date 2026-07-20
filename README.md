@@ -4,6 +4,14 @@
 
 Building things with Flutter, C++, and C#/Unity.
 
+</div>
+
+### 👋 About Me
+
+I'm a developer who enjoys turning ideas into fully working apps — mostly mobile apps built with Flutter and Dart, alongside game development with C++ and C#/Unity. I like the full loop of building something: designing it, coding it, and shipping it as a real, usable product. Always exploring new tools and technologies to keep leveling up.
+
+<div align="center">
+
 <a href="mailto:abdulwasaytariq0321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
